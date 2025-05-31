@@ -129,7 +129,8 @@ Attracting users via engaging Q&A content could help reverse this trend.
 
 We used **descriptive analytics** to explore patterns in user activity. No predictive modeling was performed. An **ERD** was created to visualize table relationships and support schema design.
 
-![ERD Diagram](https://i.stack.imgur.com/AyIkW.png)
+![image](https://github.com/user-attachments/assets/a332c279-7c66-4f1b-857a-5489814fdfd2)
+
 
 ---
 
@@ -160,7 +161,6 @@ Special thanks to the OSU CS-512 course for guidance.
 ## 🔗 References
 
 - [Stack Exchange Data Dump Schema](https://meta.stackexchange.com/questions/2677/database-schema-documentation-for-the-public-data-dump-and-sede)
-- [ERD Diagram Reference](https://i.stack.imgur.com/AyIkW.png)
 
 ---
 
